@@ -152,7 +152,6 @@ function UpCart() {
 
             c('.cart').append(cartItem);
         }
-
         desconto = subtotal * 0.1;
         total = subtotal - desconto;
 
