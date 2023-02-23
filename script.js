@@ -172,6 +172,6 @@ function UpCart() {
 
     } else {
         c('aside').classList.remove('show');
-        c('aside').style.left = '100vw'
+        c('aside').style.left = '100vw'  
     }
 }
